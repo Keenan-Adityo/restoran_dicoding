@@ -1,6 +1,6 @@
 # restoran_dicoding
 
-A new Flutter project.
+A new Flutter project. Masih dalam tahap pengembangan
 
 ## Getting Started
 
